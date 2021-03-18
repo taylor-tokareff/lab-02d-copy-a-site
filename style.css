@@ -1,0 +1,109 @@
+body {
+  
+
+
+
+
+}
+
+.top-page {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+
+}
+
+
+
+.top-bar {
+  width: 100%;
+  height: 60px;
+  background-color: rgb(74, 76, 78);
+  justify-self: center;
+
+}
+
+.top-bar2 {
+  width: 100%;
+  height: 52px;
+  border-style: solid;
+  border-color: black;
+  justify-self: center;
+  
+}
+
+.top-bar3 {
+  width: 100%;
+  height: 52px;
+  border-style: solid;
+  border-color: black;
+  justify-self: center;
+  
+}
+
+.main-columns{
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+.lists {
+  border-style: solid;
+  border-color: black;
+  border-radius: .5px;
+  width: 136px;
+  height: 555px;
+
+}
+
+#black {
+  background-color: grey;
+}
+
+#white {
+  background-color: rgb(226, 226, 226);
+}
+
+#red {
+  background-color: rgb(241, 141, 141);
+
+}
+
+#blue {
+  background-color: royalblue;
+
+}
+
+#green {
+  background-color: seagreen;
+}
+
+#colorless {
+  background-color: hotpink;
+
+}
+
+#multicolored {
+  background-color: goldenrod;
+
+
+}
+
+#lands {
+  background-color: sienna;
+
+
+}
+
+.colors {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  font-weight: bold;
+
+
+
+
+}
+
